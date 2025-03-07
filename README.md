@@ -59,7 +59,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-03-03 143027.png>)
+![WhatsApp Image 2025-03-07 at 10 39 43_2d6f0303](https://github.com/user-attachments/assets/72c9c9ce-0c9b-4b2e-afca-401af90ebf53)
 
 ## RESULT:
-The program is executed successfully
+The program i
+s executed successfully
